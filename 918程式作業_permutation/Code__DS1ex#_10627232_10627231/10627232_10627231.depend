@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1537586347 source:c:\users\meaning\desktop\918程式作業\ds1ex#_10627232_10627231\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctime>
+
